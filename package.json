@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-fabel",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabred2/random-str-msg-f.git"
+  },
+  "keywords": [],
+  "author": "fabred2@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabred2/random-str-msg-f/issues"
+  },
+  "homepage": "https://github.com/fabred2/random-str-msg-f#readme",
+  "bin": {
+    "random-str-msg-fabel": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
